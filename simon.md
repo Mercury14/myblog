@@ -1,9 +1,9 @@
 ---
-title: /
+title: /simon
 layout: home
 permalink: /
 ---
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Hi - My name is Simon
