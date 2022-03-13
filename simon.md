@@ -1,7 +1,7 @@
 ---
-layout: page
 title: /simon
-permalink: /simon/
+layout: page
+permalink: /simon
 ---
 
 # jekyll-theme-console
