@@ -1,6 +1,6 @@
 ---
-title: /simon
 layout: page
+title: /simon
 permalink: /simon
 ---
 

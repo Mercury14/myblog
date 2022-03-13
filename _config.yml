@@ -5,8 +5,8 @@ url: "https://mercury14.github.io"
 
 header_pages:
   - index.md
-  - simon.md
   - about.md
+  - simon.md
   
 
 style: dark # dark (default), light or hacker
