@@ -5,7 +5,7 @@ permalink: / rules
 ---
 
 ## Rules and Learnings that I try to live by
-
+I have seen others put up their version of lessons they have learned - here is mine.
 
 * Work as hard for yourself as you do for others
 * Don’t put things off until tomorrow or the next day because you think you will have more energy, you work better under pressure or you will feel more like doing it – you don’t and you won’t (Lies we tell ourselves)
