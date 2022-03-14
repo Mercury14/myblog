@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /rules
-permalink: /rules
+title: / rules
+permalink: / rules
 ---
 
 ## Rules and Learnings that I try to live by
