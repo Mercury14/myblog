@@ -5,8 +5,9 @@ url: "https://mercury14.github.io"
 
 header_pages:
   - index.md
+  - projects.md
   - about.md
-  - simon.md
+  - rules.md
   
 #theme: jekyll-theme-console
 
