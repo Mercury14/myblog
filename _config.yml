@@ -14,7 +14,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 style: light # dark (default), light or hacker
 
-footer: 'follow us on <a href="https://twitter.com/simon_bartlett_">twitter</a>'
+footer: "follow us on <a href='https://twitter.com/simon_bartlett_'>twitter</a>"
 
 # Build settings
 markdown: kramdown
