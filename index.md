@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Simon Bartlett
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Welcome for my space on the internet where I share information on my current projects, ideas and thoughts.
